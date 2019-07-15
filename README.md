@@ -1,5 +1,5 @@
 # SPASIBO DENIZA
-![Alt text]()
+![Alt text](https://github.com/nasyrov289/spring-demo/blob/master/whale.png)
 # WEEK 5 TASK
 ## About Task
 The Week 5 Task was:
