@@ -16,6 +16,19 @@ Submit a link to your repository where you must have the following:
 
 Note: if you don't use Docker-compose, but your solution works, then that is ok. Just document what commands the user must run.
 ```
+## HOW TO USE IT
+1. Clone my repository from my Week 4 Task project, import project by using IntelliJ Idea
+2. Open directory in terminal
+3. Input next commands:
+```
+mvn clean install -DskipTests
+
+sudo docker build -f Dockerfile -t spring-demo .
+
+sudo docker-compose up
+```
+4. Launch browser and enter http://localhost:8080/admin
+5. Launch POSTMAN and use CRUD methods to test API
 ## :3
 ## Author
 ```
