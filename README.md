@@ -36,4 +36,6 @@ Nasyrov Alymzhan, Java/Kotlin Backend Engineer/
 email: nasyrov289@gmail.com
 ```
 ## Created 
+```
 Monday, 15 July, 2019, 16:06
+```
